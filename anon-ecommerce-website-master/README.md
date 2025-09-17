@@ -1,44 +1,42 @@
-# Anon - An eCommerce Website
+# Anion - eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+![GitHub repo size](https://img.shields.io/github/repo-size/JaiShiv56/Anion-eCommerce-Website)
+![GitHub stars](https://img.shields.io/github/stars/JaiShiv56/Anion-eCommerce-Website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/JaiShiv56/Anion-eCommerce-Website?style=social)
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Anion is a **fully responsive eCommerce website** built using **HTML, CSS, and JavaScript**. It is optimized for all screen sizes, making it compatible with mobile devices, tablets, and desktops.
+
+---
 
 ## Demo
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Anion Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Anion Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+
+---
+
+## Features
+
+- Fully responsive layout  
+- Product listing pages  
+- Shopping cart UI (frontend only)  
+- Interactive navigation and buttons  
+- Compatible with all modern browsers  
+
+---
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Before you begin, ensure you have:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [Git](https://git-scm.com/downloads) installed on your computer
 
-## Installing Anon
+---
 
-To install **Anon**, follow these steps:
+## Installing Anion
 
-Linux and macOS:
+Clone the repository:
 
+**Linux/macOS:**
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
+git clone https://github.com/JaiShiv56/Anion-eCommerce-Website.git
